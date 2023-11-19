@@ -1,10 +1,6 @@
-
-<div align="center">
-  <h3>
-    <samp>&gt; Greetings, I am Robert!</samp>
-  </h3>
-</div>
-  
+<h3 align="center">
+  <samp>&gt; Greetings, I am Robert!</samp>
+</h3>
 
 # About me
 ### 🌱 Continuous Learner

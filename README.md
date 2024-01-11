@@ -2,12 +2,11 @@
   <samp>&gt; Greetings, I am Robert!</samp>
 </h3>
 
-# About me
-### 🌱 Continuous Learner
-Constantly evolving, I embrace challenges and seek new knowledge.
+## About me
+Hi, my name is Robert and I want to become a software developer. I am currently in secondary school in Krakow.
 ### 📬 Get in Touch!
-Reach out via email: robertpoznanski.dev@gmail.com
-# Learning
+You can reach out via email: robertpoznanski.dev@gmail.com
+## Learning
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)

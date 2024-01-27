@@ -2,17 +2,12 @@
   <samp>&gt; Greetings, I am Robert!</samp>
 </h3>
 
-# About me
-Hi, my name is Robert and I want to become a software developer. I am currently in secondary school in Krakow.
-### 📬 Get in Touch!
-You can reach out via email: robertpoznanski.dev@gmail.com
-# Learning
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img height=130 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=din0x&layout=compact&title_color=f0f6fc&bg_color=161b22&hide_border=true&text_color=f0f6fc&hide_title=true"/>
+
+```rust
+let about_me = Info {
+    goal: "Become a software dev!",
+    code: &[Rust, C, CSharp, Unity, HTML, CSS, JavaScript],
+    contact: "robertpoznanski.dev@gmail.com",
+};
+```

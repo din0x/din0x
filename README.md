@@ -2,7 +2,8 @@
   <samp>&gt; Greetings, I am Robert!</samp>
 </h3>
 
-<img height=130 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=din0x&layout=compact&title_color=f0f6fc&bg_color=161b22&hide_border=true&text_color=f0f6fc&hide_title=true"/>
+<div>
+  <img height=118.25 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=din0x&layout=compact&title_color=f0f6fc&bg_color=161b22&hide_border=true&text_color=f0f6fc&hide_title=true"/>
 
 ```rust
 let about_me = Info {
@@ -11,3 +12,5 @@ let about_me = Info {
     contact: "robertpoznanski.dev@gmail.com",
 };
 ```
+  
+</div>
